@@ -1,0 +1,63 @@
+.Tesla-video-image {
+  width: 100%;
+}
+.search-box {
+ display: block;
+}
+.Tesla-video {
+  width: 100%;
+  display: inline-block;
+}
+.Egg-drop {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+.Tesla-video-logo {
+  width: 50px;
+  display: inline-block;
+  border-radius: 50px;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+.Tesla-video-logo-1 {
+  display: inline-block;
+}
+.Egg-drop-image {
+  display: inline-block;
+  width: 300px;
+}
+.Tesla-video-info {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0px;
+}
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title {
+  font-weight: 500;
+  margin-bottom: 12px;
+  margin-top: 15px;
+  width: 100%;
+}
+.video-author,
+.video-stats {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+.video-author {
+  margin-bottom: 4px;
+}
+.video-logo-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
